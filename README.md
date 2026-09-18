@@ -31,17 +31,23 @@ It records how long the process takes and uses the elapsed time to give the pass
 * Runs entirely locally
 * No external libraries required
 
-## How to Run
+## Download
 
-Make sure Python is installed, then run:
+**[Download passwordSecurityTester.py](./passwordSecurityTester.py)**
+
+## Running the Program
+
+1. Download the `.py` file.
+2. Make sure Python is installed.
+3. Open a terminal in the folder containing the file.
+4. Run:
 
 ```bash
 python passwordSecurityTester.py
 ```
 
-Enter a password when prompted.
-
-Type `q` to quit the program.
+5. Enter a password when prompted.
+6. Type `q` to quit.
 
 ## Example
 
