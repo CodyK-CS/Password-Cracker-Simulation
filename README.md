@@ -1,4 +1,4 @@
-# Password Security Tester
+# Password Cracker Simulation
 
 A Python cybersecurity project that simulates how quickly a password's characters can be identified by searching through a predefined character dictionary.
 
@@ -33,7 +33,7 @@ It records how long the process takes and uses the elapsed time to give the pass
 
 ## Download
 
-**[Download passwordSecurityTester.py](./passwordSecurityTester.py)**
+**[Download passwordCracker.py](./passwordCracker.py)**
 
 ## Running the Program
 
@@ -43,7 +43,7 @@ It records how long the process takes and uses the elapsed time to give the pass
 4. Run:
 
 ```bash
-python passwordSecurityTester.py
+python passwordCracker.py
 ```
 
 5. Enter a password when prompted.
